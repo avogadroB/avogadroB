@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Isha
-- 🌱 Sophomore in Computer engineering
+- 🎓 Penultimate year, Computer engineering
 - 👀 I’m interested in AIML, Data Science and just computers as a whole
 - 📫 reach me at isha.bhagat@cumminscollege.in
 
