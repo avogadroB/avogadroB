@@ -3,6 +3,7 @@
 
 - 📫 How to reach me **isha.bhagat@cumminscollege.in**
 - 👀 AIML and Data Science enthusiast
+- 📚 Novice Fullstack developer
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
