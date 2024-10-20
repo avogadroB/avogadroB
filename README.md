@@ -7,7 +7,7 @@
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
-<a href="https://linkedin.com/in/in/isha-bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/isha-bhagat" height="15" width="20" /></a>
+<a href="https://linkedin.com/in/isha-bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/isha-bhagat" height="15" width="20" /></a>
 </p>
 
 <h5 align="left">Languages and Tools:</h5>
