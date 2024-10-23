@@ -33,8 +33,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AvogadroB&theme=synthwave&hide_border=true)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AvogadroB&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=avogadroB&icon=6&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
