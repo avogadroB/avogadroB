@@ -36,7 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvogadroB&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
-[![@AvogadroB's Holopin board](https://holopin.io/api/user/board?user=avogadrob)](https://holopin.io/@avogadrob)
+[![An image of @avogadrob's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avogadrob)](https://holopin.io/@avogadrob)
 
 
 
